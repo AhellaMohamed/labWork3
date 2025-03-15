@@ -1,4 +1,3 @@
-# labWork3
 ....................Overview....................
 This News Summarization Application allows users to:
 1.Search for news on specific topics.
